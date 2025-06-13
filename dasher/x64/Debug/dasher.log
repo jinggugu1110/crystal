@@ -1,0 +1,25 @@
+﻿  Enemy.cpp
+  EnemyManager.cpp
+  Energy.cpp
+  EnergyManager.cpp
+  Game.cpp
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Game.cpp')
+  
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.cpp(179,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.cpp(179,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.cpp(181,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.cpp(181,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.cpp(183,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.cpp(183,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.cpp(190,103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.cpp(190,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+D:\HAL work\202504\intern proj\dasher 0604v2\Game.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Main.cpp')
+  
+  Player.cpp
+D:\HAL work\202504\intern proj\dasher 0604v2\Player.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  dasher.vcxproj -> D:\HAL work\202504\intern proj\dasher 0604v2\x64\Debug\dasher.exe
